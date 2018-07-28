@@ -1,6 +1,6 @@
 {
   "name": "language-nscript",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "NScript Language Support in Atom",
   "keywords": [
     "language",
