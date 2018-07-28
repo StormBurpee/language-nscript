@@ -5,7 +5,9 @@
   "keywords": [
     "language",
     "grammar",
-    "NScript"
+    "NScript",
+    "NScript Programming Language",
+    "NScript grammar"
   ],
   "repository": "https://github.com/stormburpee/language-nscript",
   "license": "MIT",
