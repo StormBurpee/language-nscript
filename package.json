@@ -1,0 +1,19 @@
+{
+  "name": "language-nscript",
+  "version": "0.1.0",
+  "description": "NScript Language Support in Atom",
+  "keywords": [
+    "language",
+    "grammar",
+    "NScript"
+  ],
+  "repository": "https://github.com/stormburpee/language-nscript",
+  "license": "MIT",
+  "engines": {
+    "atom": "*",
+    "node": "*"
+  },
+  "devDependencies": {
+    "coffeelint": "^1.10.1"
+  }
+}
